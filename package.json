@@ -37,7 +37,7 @@
     "url": "https://github.com/zoomoid/strapi-provider-upload-aws-s3-advanced/issues"
   },
   "engines": {
-    "node": ">=10.16.0 <=16.x.x",
+    "node": ">=10.16.0",
     "npm": ">=6.0.0"
   },
   "license": "MIT",
